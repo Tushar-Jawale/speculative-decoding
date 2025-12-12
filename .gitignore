@@ -1,0 +1,39 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Weights & Biases
+wandb/
+
+# pytest
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated results
+results/
